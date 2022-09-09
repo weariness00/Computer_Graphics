@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
-#define Pro 5
+#define Pro 4
 #include<stdio.h>
 #include<time.h>
 #include<math.h>
@@ -237,7 +237,6 @@ void printmenu();
 
 int main()
 {
-
 	List list;
 
 	for (int i = 0; i < 10; i++) {
